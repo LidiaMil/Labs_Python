@@ -1,2 +1,2 @@
 # Labs_Python
-MIET 2021
+Python Basics Labs - MIET 2022
